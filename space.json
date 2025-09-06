@@ -1,0 +1,7 @@
+{
+  "runtime": "python3.9",
+  "framework": "fastapi",
+  "app_file": "app.py",
+  "app_port": 7860,
+  "requirements": ["requirements.txt"]
+}
